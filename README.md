@@ -10,3 +10,6 @@ React는 한국 웹 사이트 중 44%를 차이할 만큼 많이 사용되고 �
 - Component안에 Props의 타입 검사 가능
 - npm i prop-types  
 
+## state
+- state가 변화할 때 모든 component가 다시 실행되고, 모든 code도 다시 실행된다.
+- 처음 한번만 변화하고 후에는 변화하지 않는 경우도 생각해야한다.
